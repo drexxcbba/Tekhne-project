@@ -1,0 +1,10 @@
+.poleras1{
+    background-size: 70%;
+    display: grid;
+    grid-template-columns: 53% auto;
+}
+
+#pol1{
+    width: 210%;
+    height: 400px;
+}

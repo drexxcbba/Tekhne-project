@@ -1,0 +1,13 @@
+.part2, .part3{
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+
+.part2{
+    padding-bottom: 3em;
+}
+
+#imaOne, #imaTwo{
+    width: 100%;
+    height: 250px;
+}

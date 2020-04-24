@@ -1,0 +1,11 @@
+.socio1{
+    display: grid;
+    grid-template-columns: 60% auto;
+}
+
+input, select{
+    border-radius: 5px;
+    border: solid;
+    border-color: crimson;
+    font-family: 'Montserrat', sans-serif;
+}

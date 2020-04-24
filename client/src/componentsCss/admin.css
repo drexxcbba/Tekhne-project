@@ -1,0 +1,16 @@
+button{
+    border-radius: 5px;
+    border: solid;
+    border-color: crimson;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+span{
+    padding-right: 3em;
+    background: #DCE1F6;
+}
+
+.ve-item, .vp-item, .so-item{
+    padding-bottom: 1em;
+}

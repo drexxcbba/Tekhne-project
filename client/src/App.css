@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body, html {
+    height: calc(100% - 2em);
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.App body{
+  background: #ff3019;
+  background: -moz-linear-gradient(45deg,  #ff3019 0%, #cf0404 100%);
+  background: -webkit-linear-gradient(45deg,  #ff3019 0%,#cf0404 100%);
+  background: linear-gradient(45deg,  #ff3019 0%,#cf0404 100%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=1 );
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  display: grid;
+  grid-template-columns: 20% auto;
+  padding: 3em;
+}
+
+.footerfake {
+  background: #DCE1F6;
+}
+
+.App main{
+  background-size: 70%;
+  background: white;
+  padding: 4em;
+  padding-bottom: 0;
+}
+
